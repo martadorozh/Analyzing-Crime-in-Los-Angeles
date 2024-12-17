@@ -18,9 +18,9 @@ Categorize and count the number of crimes committed against victims in different
 The age groups include: "0-17", "18-25", "26-34", "35-44", "45-54", "55-64", and "65+".
 
 The results will be saved as a pandas Series named victim_ages, where the index represents the age groups and the values represent the crime frequencies.
-Goals and Impact
 
 
+     Goals and Impact
 This analysis will provide actionable insights, such as:
 
 -Identifying the most vulnerable times and areas for crimes.
